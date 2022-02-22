@@ -1,0 +1,11 @@
+C:\Users\Miguel\source\repos\Challenge.Searchfigt\Challenge.Searchfigt\bin\Debug\netcoreapp3.1\Challenge.Searchfigt.exe
+C:\Users\Miguel\source\repos\Challenge.Searchfigt\Challenge.Searchfigt\bin\Debug\netcoreapp3.1\Challenge.Searchfigt.deps.json
+C:\Users\Miguel\source\repos\Challenge.Searchfigt\Challenge.Searchfigt\bin\Debug\netcoreapp3.1\Challenge.Searchfigt.runtimeconfig.json
+C:\Users\Miguel\source\repos\Challenge.Searchfigt\Challenge.Searchfigt\bin\Debug\netcoreapp3.1\Challenge.Searchfigt.runtimeconfig.dev.json
+C:\Users\Miguel\source\repos\Challenge.Searchfigt\Challenge.Searchfigt\bin\Debug\netcoreapp3.1\Challenge.Searchfigt.dll
+C:\Users\Miguel\source\repos\Challenge.Searchfigt\Challenge.Searchfigt\bin\Debug\netcoreapp3.1\Challenge.Searchfigt.pdb
+C:\Users\Miguel\source\repos\Challenge.Searchfigt\Challenge.Searchfigt\obj\Debug\netcoreapp3.1\Challenge.Searchfigt.csprojAssemblyReference.cache
+C:\Users\Miguel\source\repos\Challenge.Searchfigt\Challenge.Searchfigt\obj\Debug\netcoreapp3.1\Challenge.Searchfigt.AssemblyInfoInputs.cache
+C:\Users\Miguel\source\repos\Challenge.Searchfigt\Challenge.Searchfigt\obj\Debug\netcoreapp3.1\Challenge.Searchfigt.AssemblyInfo.cs
+C:\Users\Miguel\source\repos\Challenge.Searchfigt\Challenge.Searchfigt\obj\Debug\netcoreapp3.1\Challenge.Searchfigt.dll
+C:\Users\Miguel\source\repos\Challenge.Searchfigt\Challenge.Searchfigt\obj\Debug\netcoreapp3.1\Challenge.Searchfigt.pdb
